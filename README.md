@@ -14,7 +14,7 @@
 $ Python3 startPlay.py
 ```
 
-音频采集的是真人自然发音，根据听到的声音输入单词，如果输入错误会提示错误，并显示正确答案。
+音频采集的是真人自然发音，根据听到的声音输入单词，如果不知道什么单词会不同人循环发音。如果输入错误会提示错误，并显示正确答案。
 
 ```
 wordlist.md  # 是单词列表
@@ -24,4 +24,4 @@ wordlist.md  # 是单词列表
 
 
 
-[kongpengju.com](kongpengju.com)
+[https://kongpengju.com](https://kongpengju.com)
