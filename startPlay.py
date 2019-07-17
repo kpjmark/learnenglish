@@ -34,6 +34,8 @@ def mainSeeWordList():
                 time.sleep(2.5)
                 print('ok')
         else:
+            pygame.mixer.music.stop()
+            time.sleep(0.2)
             print('+******************************************+')
             print('+' + readFile.wordClearList[wordNumber] + '+')
             print('+                                          +')
