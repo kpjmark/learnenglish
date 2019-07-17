@@ -16,6 +16,12 @@ $ Python3 startPlay.py
 
 音频采集的是真人自然发音，根据听到的声音输入单词，如果输入错误会提示错误，并显示正确答案。
 
+```
+wordlist.md  # 是单词列表
+```
+
 这些代码包含了字符串，列表及循环操作。根据学习情况正在不断完善。
 
 
+
+[kongpengju.com](kongpengju.com)
