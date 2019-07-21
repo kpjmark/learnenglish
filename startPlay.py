@@ -16,7 +16,7 @@ def mainSeeWordList():
     for i in range(typein):
 
 # Start play
-        wordNumber = random.randint(0, len(wordList))
+        wordNumber = random.randint(0, (len(wordList) - 1))
         typeCorrectList = ['amazing', 'wonderful', 'great']
         typeSoundnumber = random.randint(0, 2)
         typeCorrectSound = pygame.mixer.Sound('soundFile/allDone/' + typeCorrectList[typeSoundnumber] + '.wav')
