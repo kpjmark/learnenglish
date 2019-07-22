@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+kongpengju.com
+"""
+
 import re, random
 openWordNote = open('wordlist.md', 'r')
 practiceLise = []

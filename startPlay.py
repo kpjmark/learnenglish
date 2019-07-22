@@ -1,4 +1,8 @@
-# Python3.0+
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+kongpengju.com
+"""
 
 import pygame, sys, time, random, re, readFile
 from pygame.locals  import *
